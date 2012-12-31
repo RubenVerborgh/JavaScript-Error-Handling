@@ -19,3 +19,6 @@ Letter not sent: Cannot reach address empty
 $ ./promises.js London
 Letter sent with code XYZ-London
 ```
+
+## Read more
+This code accompanies the blog post [Asynchronous error handling in JavaScript](http://ruben.verborgh.org/blog/2012/12/31/asynchronous-error-handling-in-javascript/), which discusses the use case.
